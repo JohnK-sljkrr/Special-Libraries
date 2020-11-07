@@ -2,7 +2,7 @@
 
 Initial upload so I can preserve this.
 
-These are spcial libraries for Arduino and Teensy that I have modified for my needs
+These are special libraries for Arduino and Teensy that I have modified for my needs
 
 # TimeTeensy3
 I added support for Daylight Savings time as I needed it for a project.
